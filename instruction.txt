@@ -1,0 +1,8 @@
+npm run migration:create <migration name> -----create migration
+npm run seeder:run ----------to run seeder
+npm run nest start ------to run the project
+
+
+
+I Used Nest Js to make this project (The project is incomplete)
+
